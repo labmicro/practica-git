@@ -33,7 +33,7 @@ Creación del repositorio y explicación del contenido de las carpetas `.git` y 
 1. Volver a mostrar el contenido de la carpeta con el comando
 
     ```Bash
-    rm -r .git/hooks/*.sampl
+    rm -r .git/hooks/*.sample
     tree -a -C
     ```
 
